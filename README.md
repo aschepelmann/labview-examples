@@ -7,5 +7,5 @@ This repository contains handy LabVIEW example code snippets.
 
 - logToFile: Examples which log timestamped data to CSV and MATLAB files.
 	- TDMS files require the following to view in Excel and MATLAB, respectively:
-	- Excel - TDM Excel Add-In for Microsoft Excel Download (http://www.ni.com/example/27944/en/)
-	- MATLAB - ConvertTDMS (https://www.mathworks.com/matlabcentral/fileexchange/44206-converttdms--v10-)
+		- Excel: "TDM Excel Add-In for Microsoft Excel Download" (http://www.ni.com/example/27944/en/)
+		- MATLAB: "ConvertTDMS" (https://www.mathworks.com/matlabcentral/fileexchange/44206-converttdms--v10-)
